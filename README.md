@@ -59,12 +59,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aritraio&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraio&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ishantagarwala&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantagarwala&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aritraio&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ishantagarwala&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Contribution Snapshot
