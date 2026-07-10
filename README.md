@@ -74,7 +74,7 @@ currently:
 </td>
 <td valign="top" width="45%" align="center">
 <br/>
-<img src="https://media.giphy.com/media/qgQUggACQPfYNogOZ4/giphy.gif" width="300" alt="coding" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="coding cat" />
 </td>
 </tr>
 </table>
@@ -203,8 +203,8 @@ currently:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Ishantagarwala&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=c4b5fd&fire=a78bfa&currStreakLabel=c4b5fd&sideNums=a5b4fc&sideLabels=818cf8&dates=6b7280" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishantagarwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=a5b4fc&langs_count=8" width="38%" />
+  <img src="https://streak-stats.demolab.com?user=Ishantagarwala&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=C4B5FD&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=A5B4FC&sideLabels=818CF8&dates=6B7280" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ishantagarwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=a5b4fc&langs_count=8" width="38%" />
 </div>
 
 <br/>
@@ -225,9 +225,9 @@ currently:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishantagarwala/ishantagarwala/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishantagarwala/ishantagarwala/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ishantagarwala/ishantagarwala/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="./dist/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
